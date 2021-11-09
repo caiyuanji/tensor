@@ -1,0 +1,3 @@
+# Node Commitizen
+*.json
+node_modules/
